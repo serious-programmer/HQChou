@@ -41,4 +41,4 @@ def genFile():
 
 iterate('./')
 genFile()
-print(allFile)
+print("succeed")
