@@ -1,18 +1,15 @@
-#!algorithm
-###schael 2/20
+#algorithm
 * [ ] one algorithm from introduction to algorithm
 
 
 ---
-#!csapp
-###schael 2/20
+#csapp
 
 * [ ] a tour of computer systems
 
 
 ---
-#!design pattern
-###schael 2/20
+#design pattern
 
 * [ ] state pattern
 * [ ] proxy pattern
@@ -20,16 +17,14 @@
 
 
 ---
-#!programming
-###schael 2/20
+#programming
 
 * [ ] the back of the envelope
 * [ ] algorithm design techniques
 
 
 ---
-#!refactoring
-###schael 2/20
+#refactoring
 
 * [ ] self encapsulate field
 * [ ] replace data values with object
@@ -49,19 +44,18 @@
 
 
 ---
-#!thinking in java
-###schael 2/20
+#thinking in java
 
 * [ ] intro
 
 
 ---
-#!webgl
+#webgl
 * [ ] lesson 3
 
 
 ---
-#!typingFun
+#typingFun
 * [ ] action 1
 * [ ] action 2
 * [ ] action 3

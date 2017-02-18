@@ -19,12 +19,12 @@ def getUsefulContent(file, proj):
     # print('proj ' + proj)
     contents = open(file).readlines()
     contents.reverse()
-    buf = ['#!' + proj + '\n']  # project name
+    buf = ['#' + proj + '\n']  # project name
 
     for line in contents:
-        buf.insert(1, line)
         if line.startswith('##'):
             break
+        buf.insert(1, line)
 
     buf.extend(['\n', '\n', "---", '\n'])  # add blank line
     return buf
