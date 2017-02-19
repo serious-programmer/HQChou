@@ -1,3 +1,2 @@
-* [ ] action 1
-* [ ] action 2
-* [ ] action 3
+* [ ] upload system
+* [ ] charpter select

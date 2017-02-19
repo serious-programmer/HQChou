@@ -9,7 +9,6 @@
 因为每个仓库只会默认显示一个 README.md 所以我写了个 脚本把每个文件夹里的*schael*拿出来 组成一个readme 放到外面，需要自取，每周更新的时候只要在原文件后面增加当前计划，不要把之前的删除没关系
 
 
-
 #algorithm
 * [ ] one algorithm from introduction to algorithm
 
@@ -29,7 +28,7 @@
 
 
 ---
-#programming
+#programming perl
 
 * [ ] the back of the envelope
 * [ ] algorithm design techniques
@@ -58,7 +57,9 @@
 ---
 #thinking in java
 
-* [ ] intro
+* [ ] interface
+* [ ] inner classes
+* [ ] holding yourObject
 
 
 ---
@@ -68,9 +69,8 @@
 
 ---
 #typingFun
-* [ ] action 1
-* [ ] action 2
-* [ ] action 3
+* [ ] upload system
+* [ ] charpter select
 
 
 ---

@@ -1,3 +1,5 @@
 ###schael 2/20
 
-* [ ] intro
+* [ ] interface
+* [ ] inner classes
+* [ ] holding yourObject
