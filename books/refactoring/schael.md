@@ -1,14 +1,14 @@
 ###schael 2/20
 
-* [ ] self encapsulate field
-* [ ] replace data values with object
-* [ ] change value to reference
-* [ ] change reference to value
-* [ ] replace array with object
-* [ ] duplicate observed data
-* [ ] change unidirectional association to bidirectional
-* [ ] change bidirectional association to unidirectional
-* [ ] replace magic number with symbolic constant
+* [x] self encapsulate field
+* [x] replace data values with object
+* [x] change value to reference
+* [x] change reference to value
+* [x] replace array with object
+* [x] duplicate observed data
+* [x] change unidirectional association to bidirectional
+* [x] change bidirectional association to unidirectional
+* [x] replace magic number with symbolic constant
 * [ ] encapsulate field
 * [ ] encapsulate collection
 * [ ] replace record with data class

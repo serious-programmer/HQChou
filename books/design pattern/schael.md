@@ -1,5 +1,5 @@
 ###schael 2/20
 
-* [ ] state pattern
-* [ ] proxy pattern
+* [x] state pattern
+* [x] proxy pattern
 * [ ] compound patterns
