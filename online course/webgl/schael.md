@@ -1,1 +1,1 @@
-* [ ] lesson 3
+* [x] lesson 3

@@ -56,13 +56,13 @@
 
 ---
 #webgl
-* [ ] lesson 3
+* [x] lesson 3
 
 
 ---
 #typingFun
-* [ ] upload system
-* [ ] charpter select
+* [x] complete session
+* [x] add user name 
 
 
 ---

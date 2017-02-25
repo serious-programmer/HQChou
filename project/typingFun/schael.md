@@ -1,2 +1,2 @@
-* [ ] upload system
-* [ ] charpter select
+* [x] complete session
+* [x] add user name 
