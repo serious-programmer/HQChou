@@ -38,12 +38,13 @@
 * [x] change unidirectional association to bidirectional
 * [x] change bidirectional association to unidirectional
 * [x] replace magic number with symbolic constant
-* [ ] encapsulate field
-* [ ] encapsulate collection
-* [ ] replace record with data class
-* [ ] replace type code with class
-* [ ] replace type code with subclassed
-* [ ] replace type code iwth state/strategy
+* [x] encapsulate field
+* [x] encapsulate collection
+* [x] replace record with data class
+* [x] replace type code with class :: since enum came out, this is actually useless
+* [x] replace type code with subclassed
+* [x] replace type code iwth state/strategy
+* [x] replace subclass with fields :: subClass with only constant method shouldn't exist
 
 
 ---
