@@ -4,66 +4,52 @@
 
 ---
 #csapp
-**charpter 1**
-* [x]  a tour of computer systems
-**charpter 2**
-* [x] Information storage
-* [x] INteger Representations
+* [ ] 2.3 Integer Arithmetic
+* [ ] 2.4 Floating Point
+* [ ] 3   Machine-Level Representation of Programs
 
 
 ---
 #design pattern
-
-* [x] state pattern
-* [x] proxy pattern
 * [ ] compound patterns
+* [ ] better live with patterns
+* [ ] left over patterns
 
 
 ---
 #programming perl
-
-* [x] the back of the envelope
-* [ ] algorithm design techniques
+* [ ] code Tunning
+* [ ] Squeezing Space
 
 
 ---
 #refactoring
-
-* [x] self encapsulate field
-* [x] replace data values with object
-* [x] change value to reference
-* [x] change reference to value
-* [x] replace array with object
-* [x] duplicate observed data
-* [x] change unidirectional association to bidirectional
-* [x] change bidirectional association to unidirectional
-* [x] replace magic number with symbolic constant
-* [x] encapsulate field
-* [x] encapsulate collection
-* [x] replace record with data class
-* [x] replace type code with class :: since enum came out, this is actually useless
-* [x] replace type code with subclassed
-* [x] replace type code iwth state/strategy
-* [x] replace subclass with fields :: subClass with only constant method shouldn't exist
+* [ ] Decompose Conditional
+* [ ] Consolidate Conditional Expression
+* [ ] Consolidate Duplicate Conditional Fragments
+* [ ] Remove Control Flag
+* [ ] Replace Nested Conditional with Guard Clauses
+* [ ] Replace Conditional with Polymorphism
+* [ ] Introduce Null Object
+* [ ] Introduce Assertion
 
 
 ---
 #thinking in java
-
-* [x] interface
-* [ ] inner classes
-* [ ] holding yourObject
+* [ ] error handling with exceptions
+* [ ] Strings
+* [ ] Type Informations
 
 
 ---
 #webgl
-* [x] lesson 3
+* [ ] lesson 4
 
 
 ---
 #typingFun
-* [x] complete session
-* [x] add user name 
+* [ ] action
+* [ ] action 
 
 
 ---

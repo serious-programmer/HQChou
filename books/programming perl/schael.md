@@ -1,4 +1,8 @@
 ###schael 2/20
 
 * [x] the back of the envelope
-* [ ] algorithm design techniques
+* [x] algorithm design techniques
+
+###schael 2/27
+* [ ] code Tunning
+* [ ] Squeezing Space

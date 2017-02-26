@@ -1,5 +1,10 @@
 ###schael 2/20
 
 * [x] interface
-* [ ] inner classes
-* [ ] holding yourObject
+* [x] inner classes
+* [x] holding yourObject
+
+###schael 2/27
+* [ ] error handling with exceptions
+* [ ] Strings
+* [ ] Type Informations

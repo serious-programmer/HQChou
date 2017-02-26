@@ -16,3 +16,13 @@
 * [x] replace type code with subclassed
 * [x] replace type code iwth state/strategy
 * [x] replace subclass with fields :: subClass with only constant method shouldn't exist
+
+###schael 2/27
+* [ ] Decompose Conditional
+* [ ] Consolidate Conditional Expression
+* [ ] Consolidate Duplicate Conditional Fragments
+* [ ] Remove Control Flag
+* [ ] Replace Nested Conditional with Guard Clauses
+* [ ] Replace Conditional with Polymorphism
+* [ ] Introduce Null Object
+* [ ] Introduce Assertion
