@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE spys SYSTEM "\\Mac\Home\Desktop\aaaa.dtd">
+<spys>
+	<spy ID="A001" firstName="Nikki" lastName="Devgood">
+		<Missions>
+			<Mission mID="M101">
+				<date>04/15/2005</date>
+				<description>Crack the code</description>
+				<status>Mission Accomplished</status>
+			</Mission>
+			<Mission mID="M102">
+				<date>05/04/2006</date>
+				<description>Get the source</description>
+				<status>Mission Accomplished</status>
+			</Mission>
+			<Mission mID="M103">
+				<date>06/15/2006</date>
+				<description>Hit the target</description>
+				<status>In Progress</status>
+			</Mission>
+		</Missions>
+		<Alias>
+			<Alia aID="1" name="Spy Grrr1"/>
+			<Alia aID="2" name="La Femme Nikki"/>
+		</Alias>
+	</spy>
+	<spy ID="A006" firstName="Link" lastName="Lister">
+		<Missions>
+			<Mission mID="M104">
+				<date>11/04/2005</date>
+				<description>Shoot the rapid</description>
+				<status>In Progress</status>
+			</Mission>
+		</Missions>
+		<Alias>
+			<Alia aID="3" name="LL"/>
+			<Alia aID="4" name="Fred"/>
+		</Alias>
+	</spy>
+	<spy ID="A003" firstName="Danger" lastName="Mause">
+		<Missions>
+			<Mission mID="M105">
+				<date>11/04/2005</date>
+				<description>Get the &lt;big cheese</description>
+				<status>In Progress</status>
+			</Mission>
+			<Mission mID="M106">
+				<date>04/04/2006</date>
+				<description>Map the area</description>
+				<status>In Progress</status>
+			</Mission>
+		</Missions>
+		<Alias>
+			<Alia aID="5" name="Big Ears"/>
+		</Alias>
+	</spy>
+	<spy ID="A099" firstName="Barbara" lastName="Feldon">
+		<Missions>
+			<Mission mID="M107">
+				<date>05/02/2006</date>
+				<description>Get Smart</description>
+				<status>In Progress</status>
+			</Mission>
+		</Missions>
+		<Alias/>
+	</spy>
+	<spy ID="A004" firstName="Maxwell" lastName="Smart">
+		<Missions>
+			<Mission mID="M108">
+				<date>02/15/1967</date>
+				<description>Protect Chief</description>
+				<status>In Progress</status>
+			</Mission>
+			<Mission mID="M109">
+				<date>06/15/2006</date>
+				<description>Get some style</description>
+				<status>Mission Accomplished</status>
+			</Mission>
+		</Missions>
+		<Alias>
+			<Alia aID="6" name="Inspector Gadget"/>
+			<Alia aID="7" name="Don Adams"/>
+		</Alias>
+	</spy>
+</spys>

@@ -8,3 +8,7 @@
 * [ ] compound patterns
 * [ ] better live with patterns
 * [ ] left over patterns
+###schael 3/5 
+* [ ] compound patterns
+* [ ] better live with patterns
+* [ ] left over patterns

@@ -8,3 +8,8 @@
 * [ ] error handling with exceptions
 * [ ] Strings
 * [ ] Type Informations
+
+###schael 3/5
+* [ ] error handling with exceptions
+* [ ] Strings
+* [ ] Type Informations

@@ -6,3 +6,7 @@
 ###schael 2/27
 * [ ] code Tunning
 * [ ] Squeezing Space
+
+###schael 3/5
+* [ ] code Tunning
+* [ ] Squeezing Space
