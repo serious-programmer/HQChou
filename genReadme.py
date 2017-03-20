@@ -1,7 +1,7 @@
 import os
 
 allFile = []
-exclude = ['design pattern']
+exclude = ['design pattern','webgl','typingFun','algorithm']
 
 
 def iterate(curDir):

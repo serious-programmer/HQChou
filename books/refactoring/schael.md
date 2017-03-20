@@ -26,5 +26,3 @@
 * [ ] Replace Conditional with Polymorphism
 * [ ] Introduce Null Object
 * [ ] Introduce Assertion
-
-###schael 3/5

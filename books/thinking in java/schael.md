@@ -12,4 +12,7 @@
 ###schael 3/5
 * [x] error handling with exceptions
 * [x] Strings
+
+###schael 3/19
 * [ ] Type Informations
+* [ ] Generics

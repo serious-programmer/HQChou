@@ -1,19 +1,7 @@
-#algorithm
-* [ ] one algorithm from introduction to algorithm
-
-
----
 #csapp
-* [ ] 2.3 Integer Arithmetic
+* [x] 2.3 Integer Arithmetic
 * [ ] 2.4 Floating Point
 * [ ] 3   Machine-Level Representation of Programs
-
-
----
-#design pattern
-* [ ] compound patterns
-* [ ] better live with patterns
-* [ ] left over patterns
 
 
 ---
@@ -24,6 +12,14 @@
 
 ---
 #refactoring
+* [ ] Decompose Conditional
+* [ ] Consolidate Conditional Expression
+* [ ] Consolidate Duplicate Conditional Fragments
+* [ ] Remove Control Flag
+* [ ] Replace Nested Conditional with Guard Clauses
+* [ ] Replace Conditional with Polymorphism
+* [ ] Introduce Null Object
+* [ ] Introduce Assertion
 
 
 ---
@@ -32,21 +28,19 @@
 
 
 ---
+#the definitive antlr4 reference
+* [ ] ...
+
+
+---
 #thinking in java
-* [ ] error handling with exceptions
-* [ ] Strings
 * [ ] Type Informations
+* [ ] Generics
 
 
 ---
-#webgl
-* [ ] lesson 4
-
-
----
-#typingFun
-* [ ] action
-* [ ] action
+#compiler
+* [ ] 5-*
 
 
 ---
