@@ -11,6 +11,6 @@
 * [ ] 3   Machine-Level Representation of Programs
 
 ###schael 3/5
-* [ ] 2.3 Integer Arithmetic
+* [x] 2.3 Integer Arithmetic
 * [ ] 2.4 Floating Point
 * [ ] 3   Machine-Level Representation of Programs

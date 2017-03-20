@@ -1,6 +1,7 @@
 import os
 
 allFile = []
+exclude = ['design pattern']
 
 
 def iterate(curDir):
@@ -11,7 +12,7 @@ def iterate(curDir):
         if dir.endswith('.md') and dir != 'README.md':
             allFile.extend(getUsefulContent(fullPath, os.path.basename(curDir)))
             # print(dir)
-        elif os.path.isdir(fullPath):
+        elif os.path.isdir(fullPath) and not (dir in exclude):
             iterate(fullPath)
 
 

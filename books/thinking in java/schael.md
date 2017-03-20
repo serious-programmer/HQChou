@@ -10,6 +10,6 @@
 * [ ] Type Informations
 
 ###schael 3/5
-* [ ] error handling with exceptions
-* [ ] Strings
+* [x] error handling with exceptions
+* [x] Strings
 * [ ] Type Informations
